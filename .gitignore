@@ -1,0 +1,8 @@
+ZuulServer/target/
+*.iml
+OrderService/target/
+NotificationService/target/
+InvoiceService/target/
+EurekaServer/target/
+ClientService/target/
+.idea/sonarlint/

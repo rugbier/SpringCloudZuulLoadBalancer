@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Tutoriales/tutorials/spring-cloud/spring-cloud-eureka/spring-cloud-eureka-server/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Tutoriales/tutorials/spring-cloud/spring-cloud-zuul-eureka-integration/eureka-client/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ClientService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ClientService/src/main/java/org/example/spring/cloud/loadbalancer/clientservice/ClientServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ClientService/src/main/java/org/example/spring/cloud/loadbalancer/clientservice/controller/ClientController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ClientService/src/main/java/org/example/spring/cloud/loadbalancer/clientservice/controller/ConsumerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ClientService/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/src/main/java/org/example/spring/cloud/discovery/consumerservice/ConsumerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/src/main/java/org/example/spring/cloud/discovery/consumerservice/controller/ConsumerController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/src/main/java/org/example/spring/cloud/discovery/consumerservice/controller/ProducerFeignClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/src/main/java/org/example/spring/cloud/discovery/consumerservice/externalservice/ProducerFeignClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/src/main/java/org/example/spring/cloud/discovery/consumerservice/externaservice/ProducerFeignClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ConsumerService/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Eureka-Server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Eureka-Server/src/main/java/org/example/spring/cloud/discovery/eurekaserver/EurekaServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Eureka-Server/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EurekaServer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EurekaServer/src/main/java/org/example/spring/cloud/loadbalancer/eurekaserver/EurekaServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EurekaServer/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/invoiceservice/ProducerResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/notificationservice/InvoiceServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/notificationservice/ProducerResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/InvoiceServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/controller/InvoiceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/controller/ResourceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/java/org/example/spring/cloud/loadbalancer/producerresource/ProducerResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/InvoiceService/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/src/main/java/org/example/spring/cloud/loadbalancer/notificationservice/NotificationServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/src/main/java/org/example/spring/cloud/loadbalancer/notificationservice/ProducerResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/NotificationServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/controller/NotificationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/controller/ResourceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/NotificationService/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/OrderService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/OrderService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/OrderServiceApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/OrderService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/controller/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/OrderService/src/main/java/org/example/spring/cloud/loadbalancer/orderservice/controller/ResourceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/OrderService/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ProducerService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ProducerService/src/main/java/org/example/spring/cloud/discovery/producerresource/ProducerResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ProducerService/src/main/java/org/example/spring/cloud/discovery/producerresource/controller/ResourceController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ProducerService/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/src/main/java/org/example/spring/cloud/discovery/zuulserver/ZuulServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/src/main/java/org/example/spring/cloud/loadbalancer/zuulserver/ZuulServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/src/main/java/org/example/spring/cloud/loadbalancer/zuulserver/filters/PostFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/src/main/java/org/example/spring/cloud/loadbalancer/zuulserver/filters/PreFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/src/main/java/org/example/spring/cloud/loadbalancer/zuulserver/filters/RouteFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ZuulServer/src/main/resources/application.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+spring:
+  application:
+    name: zuulserver
+
+server:
+  port: 8762
+
+#Enabling actuator endpoints
+management.endpoints.web.exposure.include: "*"
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    fetchRegistry: true
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+
+zuul:
+  ignored-services: '*'
+  routes:
+    client-service:
+      path: /client/**
+      serviceId: clientservice
+      stripPrefix: false
+    order-service:
+      path: /order/**
+      serviceId: orderservice
+      stripPrefix: false
+    invoice-service:
+      path: /invoice/**
+      url: http://localhost:8020
+      stripPrefix: false
+    notification-service-endpoint1:
+      path: /notification/endpoint1
+      url: http://localhost:8030
+      stripPrefix: false
+    notification-service-endpoint2:
+      path: /notification/endpoint2
+      serviceId: notificationservice
+      stripPrefix: false
