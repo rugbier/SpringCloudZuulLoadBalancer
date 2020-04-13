@@ -1,0 +1,53 @@
+Pruebas para Zuul
+
+Endpoints
+
+ClientService:
+	http://localhost:8000/client/endpoint1
+	http://localhost:8000/client/endpoint2
+	
+	http://localhost:8001/client/endpoint1
+	http://localhost:8001/client/endpoint2
+	
+OrderService:
+	http://localhost:8010/order/endpoint1
+	http://localhost:8010/order/endpoint2
+	
+	http://localhost:8011/order/endpoint1
+	http://localhost:8011/order/endpoint2
+
+InvoiceService (NO está registrado en eureka)
+	http://localhost:8020/client/endpoint1
+	http://localhost:8020/client/endpoint2
+
+NotificationService:
+	http://localhost:80030/order/endpoint1
+	http://localhost:80030/order/endpoint2
+	                   
+	http://localhost:80031/order/endpoint1
+	http://localhost:80031/order/endpoint2
+	                   
+	http://localhost:80032/order/endpoint1
+	http://localhost:80032/order/endpoint2
+	
+
+Eureka server
+	http://localhost:8761/
+
+ZUUL server
+	http://localhost:8762/client/endpoint1
+	http://localhost:8762/client/endpoint1
+
+	http://localhost:8762/order/endpoint1
+	http://localhost:8762/order/endpoint2
+
+	http://localhost:8762/invoice/endpoint1
+	http://localhost:8762/invoice/endpoint2
+
+	http://localhost:8762/notification/endpoint1 -> Ruteado a una sola instancia
+	http://localhost:8762/invoice/endpoint2 -> Ruteado a todas las instancias
+
+
+Endpoints de ZUUL
+	http://localhost:8762/actuator/routes
+	http://localhost:8762/actuator/metrics
